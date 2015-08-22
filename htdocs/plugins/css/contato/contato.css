@@ -1,0 +1,40 @@
+.classe_div_formulario_contato{
+
+float: left;
+width: 98%;
+padding: 1%;
+
+}
+
+.classe_div_formulario_contato span{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+font-size: 16px;
+font-weight: bold;
+
+}
+
+.classe_div_formulario_contato div{
+
+float: left;
+width: 100%;
+margin-bottom: 5px;
+
+}
+
+.classe_div_formulario_contato input[type='text']{
+
+float: left;
+width: 315px;
+
+}
+
+.classe_div_formulario_contato textarea{
+
+float: left;
+width: 315px;
+
+}
+

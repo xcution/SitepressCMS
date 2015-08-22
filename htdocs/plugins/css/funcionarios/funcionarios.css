@@ -1,0 +1,96 @@
+.classe_div_funcionario{
+
+float: left;
+width: 47%;
+padding: 1%;
+margin-right: 1%;
+
+border-bottom-color: #e9e9ea;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+
+}
+
+.classe_div_funcionario_imagem{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_funcionario_nome{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_funcionario_cargo{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_funcionario_horarios{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_funcionario_span{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_funcionario_imagem img{
+
+float: left;
+margin-top: 5px;
+margin-bottom: 15px;
+width: 228px;
+height: 300px;
+
+}
+
+.classe_div_funcionario_recorte_imagem{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_funcionario_excluir{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+background-color: #eceff3;
+border-top-color: #c7d0dc;
+border-top-style: solid;
+border-top-width: 2px;
+
+}
+
+.classe_div_funcionario_excluir div{
+
+float: left;
+padding: 4px;
+height: 20px;
+
+border-right-color: #c7d0dc;
+border-right-style: solid;
+border-right-width: 1px;
+cursor: pointer;
+
+}
+

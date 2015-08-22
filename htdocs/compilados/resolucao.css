@@ -1,0 +1,204 @@
+body, html{
+
+max-width: 100%;
+min-width: 320px;
+
+}
+
+body{
+
+overflow-x: hidden;
+
+}
+
+.classe_div_centro_pagina{
+
+width: 100%;
+padding: 0px;
+
+}
+
+.classe_div_principal_pagina{
+
+width: 100%;
+padding: 0px;
+
+}
+
+.classe_publicacao_miniatura_titulo{
+
+width: 98%;
+padding: 1%;
+white-space: normal;
+
+}
+
+.classe_publicacao_miniatura_conteudo{
+
+width: 98%;
+padding: 1%;
+max-height: auto;
+
+}
+
+.classe_publicacao_miniatura_imagem{
+
+max-width: 500px;
+width: 100%;
+height: 250px;
+
+}
+
+.classe_publicacao_miniatura{
+
+height: auto;
+margin-left: 0px;
+width: 98%;
+
+}
+
+.classe_div_imagem_publicacao{
+
+width: 310px;
+height: 200px;
+
+}
+
+.classe_div_conteudo_rodape div{
+
+width: 98%;
+padding: 1%;
+margin-bottom: 12px;
+text-align: center;
+
+}
+
+.classe_div_menu_navegacao_topo{
+
+height: auto;
+
+}
+
+.classe_div_menu_navegacao_topo a{
+
+padding: 1%;
+float: left;
+width: 48%;
+height: 20px;
+margin-bottom: 2px;
+border-width: 0px;
+text-transform: uppercase;
+
+}
+
+.classe_div_bloco_pagina_bloco_div{
+
+width: 98%;
+padding: 1%;
+height: auto;
+
+}
+
+.classe_votos_enquete_porcentagem{
+
+width: 47%;
+padding: 1%;
+height: auto;
+margin-bottom: 20px;
+
+}
+
+.classe_div_conteudo_bloco{
+
+width: 98%;
+padding: 1%;
+height: auto;
+
+}
+
+.classe_div_conversa_chat{
+
+right: 0px;
+height: 465px;
+
+}
+
+.classe_div_conversas_usuario{
+
+height: 320px;
+
+}
+
+.classe_div_logotipo_topo{
+
+width: 98%;
+height: auto;
+padding: 1%;
+margin: 0px;
+text-align: center;
+
+}
+
+.classe_div_logotipo_topo img{
+
+width: auto;
+height: auto;
+float: none;
+margin-top: 0px;
+margin-bottom: 0px;
+
+}
+
+.classe_div_pesquisa{
+
+text-align: center;
+width: 98%;
+padding: 1%;
+
+}
+
+.classe_div_pesquisa input[type='text']{
+
+height: 50px;
+font-size: 18px;
+
+}
+
+.classe_div_formulario_login{
+
+width: 98%;
+padding: 1%;
+margin-bottom: 15px;
+margin-top: 0px;
+text-align: center;
+
+}
+
+.classe_div_formulario_login input[type='password']{
+
+float: none;
+width: 48%;
+
+}
+
+.classe_div_formulario_login input[type='text']{
+
+float: none;
+width: 48%;
+
+}
+
+.classe_div_recuperar_senha input[type='text']{
+
+width: 100%;
+
+}
+
+
+
+
+
+
+
+
+

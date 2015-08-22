@@ -1,0 +1,76 @@
+.div_janela_principal_mensagem_dialogo{
+
+position: fixed;
+left: 0;
+top: 0;
+width: 100%;
+height: 100%;
+z-index: 999999;
+display: none;
+text-align: left;
+overflow: auto;
+
+}
+
+.div_janela_mensagem_dialogo{
+
+background-color: #ffffff;
+min-width: 345px;
+max-width: 345px;
+width: 345px;
+display: table;
+table-layout: fixed;
+margin: auto;
+margin-top: 25%;
+margin-bottom: 25%;
+color: #3e3e3e;
+
+border-radius: 4px;
+background-color: rgb(255, 255, 255);
+border: 6px solid rgb(100, 100, 100); 
+border: 6px solid rgba(0, 0, 0, 0.3); 
+-moz-background-clip: padding; 
+-webkit-background-clip: padding; 
+background-clip: padding-box; 
+
+}
+
+.div_janela_mensagem_dialogo_titulo{
+
+float: left;
+padding: 0.5%;
+width: 99%;
+
+min-height: 25px;
+color: #eceff3;
+background-color: #494886;
+
+border-top-color: #494886;
+border-top-width: 1px;
+border-top-style: solid;
+
+}
+
+.div_janela_mensagem_conteudo{
+
+float: left;
+width: 98%;
+padding: 1%;
+font-weight: normal;
+text-align: left;
+display: table;
+background-color: #ffffff;
+
+}
+
+.div_janela_mensagem_conteudo input[type="text"]{
+
+width: 295px;
+
+}
+
+.span_botao_fechar_mensagem_dialogo{
+
+margin-right: 5px;
+
+}

@@ -1,0 +1,414 @@
+.classe_div_chat_usuario{
+
+width: 160px;
+height: 450px;
+position: fixed;
+bottom: 0;
+right: 0;
+padding: 5px;
+background-color: ffffff;
+display: none;
+
+border-width: 1px;
+border-color: #adbad5;
+border-style: solid;
+border-top-width: 0px;
+border-bottom-width: 0px;
+overflow: auto;
+
+}
+
+.classe_div_chat_usuario_opcoes{
+
+width: 166px;
+height: 18px;
+position: fixed;
+bottom: 0;
+right: 0;
+padding: 2px;
+
+background-color: #494886;
+border-width: 1px;
+border-color: #6d6c9e;
+border-style: solid;
+border-bottom-width: 0px;
+padding-bottom: 5px;
+cursor: pointer;
+
+}
+
+.classe_div_chat_usuario_opcoes div{
+
+float: right;
+margin-left: 8px;
+margin-right: 2px;
+height: 100%;
+cursor: pointer;
+
+}
+
+.classe_div_chat_usuario_opcoes span{
+
+float: left;
+margin-right: 8px;
+margin-top: 2px;
+color: #ffffff;
+
+}
+
+.classe_div_usuario_chat{
+
+float: left;
+width: 98%;
+height: 35px;
+padding: 1%;
+margin-bottom: 5px;
+cursor: pointer;
+
+}
+
+.classe_div_usuario_chat_img_perfil{
+
+float: left;
+width: 30px;
+height: 35px;
+margin-right: 5px;
+
+}
+
+.classe_div_usuario_chat_img_perfil img{
+
+width: 100%;
+height: 100%;
+
+}
+
+.classe_div_usuario_chat_nome{
+
+float: left;
+width: 105px;
+height: 15px;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+
+}
+
+.classe_div_usuario_chat_usuario_online{
+
+float: left;
+margin-top: 2px;
+margin-bottom: 2px;
+width: 90px;
+
+}
+
+.classe_div_conversa_chat{
+
+width: 200px;
+height: 475px;
+position: fixed;
+bottom: 0;
+right: 175px;
+display: none;
+
+background-color: ffffff;
+border-width: 1px;
+border-color: #adbad5;
+border-style: solid;
+border-bottom-width: 0px;
+padding: 5px;
+
+}
+
+.classe_div_conversas_usuario{
+
+float: left;
+width: 100%;
+height: 325px;
+overflow: auto;
+
+}
+
+.classe_div_enviar_conversa_chat{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_conversa_chat_opcoes{
+
+float: left;
+width: 98%;
+padding: 1%;
+height: 22px;
+background-color: #494886;
+border-width: 1px;
+border-color: #6d6c9e;
+border-style: solid;
+cursor: pointer;
+
+}
+
+.classe_div_conversa_chat_opcoes_nome{
+
+float: left;
+margin-right: 2px;
+margin-top: 2px;
+color: #ffffff;
+width: 140px;
+
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+
+}
+
+.classe_div_conversa_chat_opcoes_online_offline{
+
+float: left;
+margin-right: 2px;
+margin-top: 3px;
+color: #ffffff;
+
+}
+
+.classe_div_conversa_chat_opcoes img{
+
+float: left;
+margin-right: 2px;
+margin-top: 2px;
+
+}
+
+.classe_mensagem_chat_1{
+ 
+margin-left: 33px;
+margin-top: 5px;
+position: relative;
+width: 140px;
+padding: 2px;
+background: #E6E6E3;
+border: #c9c9c9 solid 1px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+word-wrap: break-word;
+font-size: 13px;
+
+}
+
+.classe_mensagem_chat_1:after{
+
+content: "";
+position: absolute;
+top: 1.5px;
+left: -9px;
+border-style: solid;
+border-width: 7px 5px 7px 0;
+border-color: transparent #E6E6E3;
+display: block;
+width: 5px;
+z-index: 1;
+
+}
+
+.classe_mensagem_chat_1:before{
+
+content: "";
+position: absolute;
+top: 1.5px;
+left: -10px;
+border-style: solid;
+border-width: 7px 5px 7px 0;
+border-color: transparent #c9c9c9;
+display: block;
+width: 5px;
+z-index: 0;
+
+}
+
+.classe_mensagem_chat_2{
+
+margin-left: 33px;
+margin-top: 5px;
+position: relative;
+width: 140px;
+padding: 2px;
+background: #D1EAF0;
+border: #b5e5eb solid 1px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+word-wrap: break-word;
+font-size: 13px;
+
+}
+
+.classe_mensagem_chat_2:after{
+
+content: "";
+position: absolute;
+top: 1.5px;
+left: -9px;
+border-style: solid;
+border-width: 7px 5px 7px 0;
+border-color: transparent #D1EAF0;
+display: block;
+width: 5px;
+z-index: 1;
+
+}
+
+.classe_mensagem_chat_2:before{
+
+content: "";
+position: absolute;
+top: 1.5px;
+left: -10px;
+border-style: solid;
+border-width: 7px 5px 7px 0;
+border-color: transparent #b5e5eb;
+display: block;
+width: 5px;
+z-index: 0;
+
+}
+
+.classe_div_imagem_perfil_1{
+
+padding: 0px;
+margin: 0px;
+float: left;
+margin-right: 5px;
+display: table;
+width: 25px;
+height: 25px;
+
+}
+
+.classe_div_imagem_perfil_2{
+
+padding: 0px;
+margin: 0px;
+float: left;
+margin-right: 5px;
+display: table;
+width: 25px;
+height: 25px;
+
+}
+
+.classe_div_imagem_perfil_1 img{
+
+width: 25px;
+height: 25px;
+border-radius: 2px;
+
+}
+
+.classe_div_imagem_perfil_2 img{
+
+width: 25px;
+height: 25px;
+border-radius: 2px;
+
+}
+
+.classe_div_mensagem_recebida{
+
+background-color: #ffffff;
+width: 100%;
+display: table;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+.classe_div_mensagem_recebida img{
+
+max-width: 100px;
+margin: 2px;
+
+}
+
+.classe_div_mensagens_historico_chat{
+
+float: left;
+width: 98%;
+max-height: 400px;
+padding: 1%;
+margin-bottom: 5px;
+overflow: auto;
+
+}
+
+.classe_div_limpar_historico_chat{
+
+float: left;
+width: 98%;
+padding: 1%;
+text-align: center;
+font-size: 15px;
+cursor: pointer;
+
+}
+
+.classe_div_opcoes_historico_chat{
+
+float: left;
+width: 98%;
+height: 18px;
+padding: 1%;
+margin-bottom: 15px;
+
+background-color: #ebebec;
+border-bottom-color: #d1d1d2;
+border-bottom-style: solid;
+border-bottom-width: 5px;
+
+}
+
+.classe_div_opcoes_historico_chat div{
+
+float: left;
+width: 25px;
+height: 100%;
+
+border-right-color: #d1d1d2;
+border-right-style: solid;
+border-right-width: 1px;
+cursor: pointer;
+
+}
+
+.classe_div_conversa_chat_opcoes_historico{
+
+position: absolute;
+right: 25px;
+
+}
+
+.classe_div_conversa_chat_opcoes_historico_fechar{
+
+position: absolute;
+right: 2px;
+
+}
+
+.classe_div_usuario_chat_novas_mensagens{
+
+float: right;
+height: 12px;
+margin-left: 2px;
+background-color: #f27373;
+padding: 1px;
+border-radius: 20px;
+color: #ffffff;
+font-size: 11;
+padding-left: 2px;
+padding-right: 2px;
+display: none;
+
+}

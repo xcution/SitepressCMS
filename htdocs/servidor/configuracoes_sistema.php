@@ -1,0 +1,25 @@
+<?php
+
+// configuracoes do sistema
+define("CONFIG_NOME_COOKIE_EMAIL" , md5("cookie_email"));
+define("CONFIG_NOME_COOKIE_SENHA" , md5("cookie_senha"));
+define("CONFIG_EMAIL_ADMIN", "salomao@taimber.com");
+define("CONFIG_VALIDA_USUARIO_LOGADO_BLOCO", false);
+define("CONFIG_TIMER", 2000);
+define("CONFIG_TIMER_LONGO", 20000);
+define("TEMPO_FICAR_OFFLINE", 30);
+define("CONFIG_SESSAO_IDUSUARIO_CHAT", md5("CONFIG_SESSAO_IDUSUARIO_CHAT"));
+define("CONFIG_LIMIT_CHAT", 1);
+define("CONFIG_LIMIT_CHAT_INICIO", 20);
+define("LIMIT_MAX_NUM_USUARIOS_CHAT", 12);
+define("CONFIG_MD5_IDUSUARIO_CHAT", md5("CONFIG_MD5_IDUSUARIO_CHAT"));
+define("CONFIG_LIMIT_CONVERSAS_CHAT", 1);
+define("TAMANHO_RESOLUCAO_PADRAO", 1024);
+define("DETECTOR_SESSAO_TAMANHO_RESOLUCAO", md5("DETECTOR_SESSAO_TAMANHO_RESOLUCAO"));
+define("USAR_RESOLUCAO_SISTEMA", md5("USAR_RESOLUCAO_SISTEMA"));
+// define("CONFIG_XX", "");
+// define("CONFIG_XX", "");
+// define("CONFIG_XX", "");
+// define("CONFIG_XX", "");
+
+?>

@@ -1,0 +1,394 @@
+.classe_div_bloco_pagina{
+
+float: left;
+width: 100%;
+min-height: 175px;
+border-color: #6d6c9e;
+border-style: solid;
+border-width: 1px;
+background-color: #ffffff;
+margin-top: 20px;
+
+align-items: left;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: left;
+
+}
+
+.classe_div_bloco_pagina_bloco_div{
+
+float: left;
+width: 32%;
+height: 265px;
+margin-bottom: 10px;
+margin-left: 0.5%;
+margin-right: 0.5%;
+margin-top: 10px;
+
+border-bottom-color: #e9e9ea;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+text-align: center;
+background-color: #232832;
+
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+
+}
+
+.classe_titulo_bloco{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+margin-bottom: 10px;
+background-color: #ebebec;
+border-bottom-color: #d1d1d2;
+border-bottom-style: solid;
+border-bottom-width: 5px;
+height: 13px;
+height: 20px;
+padding-top: 10px;
+
+}
+
+.classe_titulo_bloco *{
+
+font-weight: bold;
+font-size: 15px;
+text-transform: uppercase;
+
+}
+
+.classe_conteudo_bloco{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+margin-bottom: 10px;
+font-size: 15px;
+color: #ffffff;
+
+}
+
+.classe_imagens_bloco{
+
+float: left;
+width: 99%;
+height: 175px;
+padding: 0.5%;
+
+}
+
+.classe_div_campo_publicar_bloco{
+
+float: left;
+width: 98%;
+padding: 1%;
+display: table;
+
+}
+
+.classe_div_campo_publicar_bloco_imagem{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_campo_publicar_bloco_descricao{
+
+float: left;
+width: 100%;
+font-weight: bold;
+margin-bottom: 10px;
+
+}
+
+.classe_div_campo_publicar_bloco_campos{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_campo_publicar_bloco_salvar{
+
+float: left;
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_conteudo_bloco{
+
+float: left;
+width: 46.5%;
+min-height: 175px;
+padding: 1%;
+padding-top: 5px;
+margin-top: 5px;
+margin-bottom: 10px;
+margin-left: 0.5%;
+margin-right: 0.5%;
+text-align: center;
+font-size: 15px;
+background-color: #ffffff;
+
+border-color: #3399ff;
+border-style: solid;
+border-width: 1px;
+border-bottom-width: 12px;
+
+}
+
+.classe_div_conteudo_bloco_conteudo{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-bottom: 5px;
+font-size: 13px;
+font-weight: bold;
+
+}
+
+.classe_div_conteudo_bloco_imagem_galeria{
+
+float: left;
+width: 98%;
+height: 150px;
+overflow: hidden;
+padding: 1%;
+margin-bottom: 20px;
+
+}
+
+.classe_div_conteudo_bloco_imagem{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-bottom: 20px;
+
+}
+
+.classe_div_conteudo_bloco_imagem img{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_conteudo_bloco_imagem_galeria img:hover{
+
+transform: scale(1.25);
+
+}
+
+.classe_div_conteudo_bloco_imagem_galeria img{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_conteudo_bloco_data{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-top: 10px;
+margin-bottom: 5px;
+font-weight: bold;
+
+}
+
+.classe_div_conteudo_bloco_nome{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-bottom: 5px;
+font-weight: bold;
+
+}
+
+.classe_div_excluir_elemento_bloco{
+
+float: left;
+width: 98%;
+height: 18px;
+padding: 1%;
+margin-bottom: 15px;
+
+background-color: #ebebec;
+border-bottom-color: #d1d1d2;
+border-bottom-style: solid;
+border-bottom-width: 5px;
+
+}
+
+.classe_div_excluir_elemento_bloco div{
+
+float: left;
+width: 25px;
+height: 100%;
+
+border-right-color: #d1d1d2;
+border-right-style: solid;
+border-right-width: 1px;
+cursor: pointer;
+
+}
+
+.classe_div_editar_conteudo_elemento_bloco{
+
+float: left;
+width: 100%;
+margin-bottom: 5px;
+
+}
+
+.classe_imagens_bloco img{
+
+width: 175px;
+height: 175px;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+float: none;
+
+}
+
+.classe_div_cadastra_funcionario{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_cadastra_funcionario span{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_cadastra_funcionario div{
+
+float: left;
+width: 100%;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+.classe_div_cadastra_funcionario input[type='text']{
+
+float: left;
+width: 300px;
+
+}
+
+.classe_div_cadastra_funcionario_hora input[type='text']{
+
+float: left;
+width: 100px;
+
+}
+
+.classe_div_bloco_livro_ocorrencia{
+
+float: left;
+width: 97%;
+padding: 1%;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-bottom: 30px;
+
+border-color: #dddddd;
+border-width: 1px;
+border-style: solid;
+
+}
+
+.classe_div_bloco_livro_ocorrencia div{
+
+float: left;
+width: 98%;
+margin-bottom: 8px;
+margin-left: 1%;
+padding-top: 5px;
+padding-bottom: 1px;
+
+border-bottom-color: #dddddd;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+
+}
+
+.classe_div_campo_gerenciar_livro_ocorrencia{
+
+float: left;
+width: 97.3%;
+padding: 1%;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+border-width: 0px;
+height: 15px;
+
+background-color: #ebebec;
+border-bottom-color: #d1d1d2;
+border-bottom-style: solid;
+border-bottom-width: 5px;
+
+}
+
+.classe_div_campo_gerenciar_livro_ocorrencia div{
+
+cursor: pointer;
+margin-right: 5px;
+
+}
+
+.classe_div_votar_enquete_bloco{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-bottom: 5px;
+margin-top: 5px;
+
+}
+
+.classe_votos_enquete_porcentagem{
+
+float: left;
+width: 47%;
+margin-right: 1%;
+padding: 1%;
+cursor: pointer;
+margin-bottom: 1%;
+font-size: 15px;
+font-weight: bold;
+
+}
+
+.classe_numero_votos_enquete{
+
+float: left;
+width: 98%;
+padding: 1%;
+font-weight: bold;
+font-size: 18px;
+font-weight: bold;
+margin-bottom: 15px;
+
+}

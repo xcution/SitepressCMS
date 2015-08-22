@@ -1,0 +1,45 @@
+.classe_div_formulario_progresso{
+
+float: left;
+width: 100%;
+margin-top: 5px;
+margin-bottom: 5px;
+
+background-color: #eceff3;
+border-top-color: #c7d0dc;
+border-top-style: solid;
+border-top-width: 2px;
+
+}
+
+.classe_div_formulario_progresso input[type='file']{
+
+display: none;
+
+}
+
+.classe_exibe_barra_progresso_formulario{
+
+float: left;
+width: 100%;
+margin-top: 5px;
+margin-bottom: 5px;
+display: none;
+
+}
+
+.classe_barra_progresso_formulario_span{
+
+float: left;
+margin-left: 5px;
+margin-top: 4px;
+
+}
+
+.classe_div_botao_upload_formulario_progresso{
+
+float: left;
+width: 99%;
+padding: 0.5%;
+
+}

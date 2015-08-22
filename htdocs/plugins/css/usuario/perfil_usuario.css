@@ -1,0 +1,71 @@
+.classe_div_perfil_usuario{
+
+float: right;
+width: 250px;
+margin-bottom: 10px;
+
+border-color: #d3d4d6;
+border-style: solid;
+border-width: 1px;
+
+}
+
+.classe_div_campo_editar_perfil{
+
+float: left;
+padding: 1%;
+width: 98%;
+margin-bottom: 3px;
+text-align: center;
+
+}
+
+.classe_imagem_perfil{
+
+width: 98%;
+min-height: 200px;
+max-height: 250px;
+float: left;
+margin: 1%;
+text-align: center;
+
+}
+
+.classe_imagem_perfil img{
+
+width: 150px;
+min-height: 220px;
+max-height: 250px;
+
+}
+
+.classe_div_nome_perfil_usuario{
+
+float: left;
+width: 98%;
+padding: 1%;
+margin-top: 5px;
+font-weight: bold;
+font-size: 14px;
+text-align: center;
+
+background-color: #ebebec;
+border-bottom-color: #d1d1d2;
+border-bottom-style: solid;
+border-bottom-width: 5px;
+
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+
+}
+
+.classe_div_campo_editar_perfil_opcao{
+
+float: left;
+width: 31%;
+padding: 1%;
+margin-bottom: 3px;
+
+}
+

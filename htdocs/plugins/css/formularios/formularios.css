@@ -1,0 +1,177 @@
+.classe_div_formulario{
+
+float: left;
+padding: 2%;
+width: 95%;
+
+border-width: 1px;
+border-color: #dfe2e3;
+border-style: solid;
+background-color: #f4f4f4;
+margin-bottom: 5px;
+
+}
+
+.classe_div_formulario input[type=text], textarea, input[type=password]{
+
+float: left;
+margin-bottom: 5px;
+width: 90%;
+
+}
+
+.classe_div_formulario span{
+
+float: left;
+width: 98%;
+margin-bottom: 10px;
+
+}
+
+.classe_div_formulario div{
+
+float: left;
+width: 98%;
+
+}
+
+.classe_mensagem_login_cadastro{
+
+width: 100%;
+float: left;
+margin-bottom: 5px;
+
+}
+
+.campo_file_upload{
+
+display: none;
+
+}
+
+.classe_div_campo_altera_imagem_perfil{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_pre_visualiza_imagem_perfil{
+
+float: left;
+width: 100%;
+margin-bottom: 5px;
+
+}
+
+.classe_div_formulario_recorte_imagem_grande_url{
+
+float: left;
+width: 100%;
+margin-bottom: 5px;
+
+background-color: #eceff3;
+border-top-color: #c7d0dc;
+border-top-style: solid;
+border-top-width: 2px;
+
+}
+
+.classe_div_formulario_login{
+
+float: right;
+width: 316px;
+height: auto;
+padding: 2px;
+margin-bottom: 25px;
+text-align: center;
+
+}
+
+.classe_div_formulario_login span{
+
+color: #eaf4ff;
+
+}
+
+.classe_div_formulario_login input[type='text']{
+
+width: 154px;
+margin-right: 3px;
+float: left;
+
+}
+
+.classe_div_formulario_login input[type='password']{
+
+width: 154px;
+margin-left: 3px;
+float: left;
+
+}
+
+.classe_div_formulario_login_botoes{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_formulario_login_span{
+
+float: left;
+width: 100%;
+margin-top: 5px;
+margin-bottom: 5px;
+font-weight: bold;
+font-size: 16px;
+color: #eaf4ff;
+
+}
+
+.classe_div_formulario_login_entrada{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_formulario_login_recupera_conta{
+
+float: left;
+width: 100%;
+margin-top: 20px;
+text-align: left;
+
+}
+
+.classe_div_recuperar_senha{
+
+float: left;
+width: 100%;
+
+}
+
+.classe_div_recuperar_senha input[type='text']{
+
+width: 275px;
+margin-left: 5px;
+
+}
+
+.classe_div_formulario_login_campos{
+
+float: left;
+width: 100%;
+display: none;
+
+}
+
+.classe_div_formulario_login_exibir_campos{
+
+float: left;
+width: 100%;
+cursor: pointer;
+
+}
+

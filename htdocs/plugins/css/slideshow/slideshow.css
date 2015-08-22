@@ -1,0 +1,169 @@
+.classe_div_slide_show{
+
+background-color: #e5f1f9;
+float: left;
+margin-bottom: 5px;
+width: 100%;
+height: 350px;
+
+border-width: 1px;
+border-style: solid;
+border-color: #7b7e84;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+
+}
+
+.classe_div_criar_slideshow{
+
+float: left;
+width: 98%;
+padding: 1%;
+height: 250px;
+
+}
+
+.classe_div_criar_slideshow_descreve{
+
+float: left;
+width: 100%;
+height: 85px;
+margin-bottom: 10px;
+
+}
+
+.classe_div_criar_slideshow_descreve img{
+
+float: left;
+height: 100%;
+margin-right: 5px;
+
+}
+
+.classe_div_criar_slideshow_descreve span{
+
+float: left;
+margin-top: 40px;
+
+}
+
+.classe_div_slide_show_imagem{
+
+float: left;
+width: 100%;
+height: 275px;
+background-color: #000000;
+opacity: 0.9;
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.classe_div_slide_show_imagem:hover{
+
+opacity: 1;
+
+}
+
+.classe_div_slide_show_imagem img{
+
+float: left;
+width: 100%;
+height: 100%;
+
+-webkit-animation: fadein 5s;
+-moz-animation: fadein 5s;
+-ms-animation: fadein 5s;
+-o-animation: fadein 5s;
+animation: fadein 5s;
+
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+
+}
+
+.classe_div_slide_show_comentario{
+
+float: left;
+width: 100%;
+background-color: #232832;
+opacity: 0.9;
+height: 75px;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+
+}
+
+.classe_div_slide_show_comentario:hover{
+
+opacity: 1;
+
+}
+
+.classe_div_slide_show_comentario_div_1{
+
+float: left;
+left: 5px;
+cursor: pointer;
+width: 30px;
+margin-top: 15px;
+
+}
+
+.classe_div_slide_show_comentario_div_2{
+
+float: left;
+cursor: pointer;
+width: 80%;
+height: 49px;
+color: #e9e9ea;
+font-weight: bold;
+font-size: 13px;
+margin-left: 3px;
+padding-top: 25px;
+
+}
+
+.classe_div_slide_show_comentario_div_3{
+
+float: left;
+cursor: pointer;
+width: 30px;
+margin-top: 15px;
+
+}
+
+.classe_div_slide_show_comentario input[type='text']{
+
+float: left;
+width: 93%;
+
+}
+
+.classe_div_campo_excluir_imagem_slideshow{
+
+float: left;
+width: 32px;
+margin-bottom: 5px;
+margin-top: 12px;
+margin-left: 1%;
+text-align: left;
+
+}
+
+.classe_div_campo_excluir_imagem_slideshow img{
+
+cursor: pointer;
+
+}
+
+.classe_div_editar_descricao_img_slideshow{
+
+float: left;
+width: 98%;
+
+}
+
+
